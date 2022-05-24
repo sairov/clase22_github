@@ -2,3 +2,28 @@
     margin: 0;
     padding: 0;
 }
+
+ul {
+    list-style-type: none;
+}
+
+
+header {
+    background-color: #2b2b2b;
+    height: 200px;
+}
+
+header nav {
+    display: flex;
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+}
+
+header nav ul li a {
+    color: white;
+}
+
+
